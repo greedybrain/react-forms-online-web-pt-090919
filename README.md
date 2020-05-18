@@ -376,7 +376,7 @@ sends all _20_ state values wherever we need them to go upon submission.
 
 ## Why Use Controlled Forms When We Do Not Have To
 
-Controlled forms can very useful for specific purposes - since we can set our
+Controlled forms can be very useful for specific purposes - since we can set our
 state _elsewhere_ using this setup, its easy to populate forms from existing 
 available data.
 
